@@ -14,6 +14,7 @@
 		ACBF646B2A2BAB0200D7202B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACBF64692A2BAB0200D7202B /* LaunchScreen.storyboard */; };
 		ACBF64732A2BAD3600D7202B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBF64722A2BAD3600D7202B /* LoginViewController.swift */; };
 		ACBF64752A2BAD3E00D7202B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBF64742A2BAD3E00D7202B /* ProfileViewController.swift */; };
+		ACBF64772A2BB5BE00D7202B /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBF64762A2BB5BE00D7202B /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		ACBF646C2A2BAB0200D7202B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ACBF64722A2BAD3600D7202B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		ACBF64742A2BAD3E00D7202B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		ACBF64762A2BB5BE00D7202B /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				ACBF645E2A2BAAFF00D7202B /* AppDelegate.swift */,
+				ACBF64762A2BB5BE00D7202B /* Test.swift */,
 				ACBF64602A2BAB0000D7202B /* SceneDelegate.swift */,
 				ACBF64642A2BAB0000D7202B /* Main.storyboard */,
 				ACBF64672A2BAB0200D7202B /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				ACBF64732A2BAD3600D7202B /* LoginViewController.swift in Sources */,
 				ACBF645F2A2BAAFF00D7202B /* AppDelegate.swift in Sources */,
+				ACBF64772A2BB5BE00D7202B /* Test.swift in Sources */,
 				ACBF64752A2BAD3E00D7202B /* ProfileViewController.swift in Sources */,
 				ACBF64612A2BAB0000D7202B /* SceneDelegate.swift in Sources */,
 			);

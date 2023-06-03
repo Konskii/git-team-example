@@ -10,7 +10,7 @@ import UIKit
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    func two() {
+    func one() {
         print("one")
         print(2 * 2)
     }
